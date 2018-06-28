@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./assets/images/Kane.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./assets/images/Stones.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./assets/images/Loftus.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./assets/images/Pickford.jpg",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./assets/images/Walker.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./assets/images/Young.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "./assets/images/Alli.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./assets/images/Henderson.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./assets/images/Lingard.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./assets/images/Rashford.jpg",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./assets/images/Trippier.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./assets/images/Sterling.jpg",
+      "clicked": false
+    }
+  ]

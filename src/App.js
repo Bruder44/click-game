@@ -98,7 +98,7 @@ class App extends Component {
     render() {
         return (
             <Wrapper>
-                <Title>Click through the English Players at the World Cup!!</Title>
+                <Title>Click through the English Players at the 2018 World Cup!!</Title>
         
                 <h3 className="scoreSummary">
                     {this.state.clickMessage}
